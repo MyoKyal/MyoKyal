@@ -1,5 +1,4 @@
 Hi, I’m Myo Kyal! 👋
-Students
 
 
 My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders. I always look to exceed expectations and am effective both working as an individual and as part of a team.
