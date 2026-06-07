@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Myo Kyal! 👋
+Students
 
-<!--
-**MyoKyal/MyoKyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders. I always look to exceed expectations and am effective both working as an individual and as part of a team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: and watch movies :tv:.
+
+I enjoy learning new things and connecting with people across a range of industries. If you ever want to bounce ideas off of me, please feel free to reach out. 😄
+
+
+
+🎉 Skills 🎉
+FrontEnd: React,
+BackEnd: Node.js, Express
+Mobile: React Native
+UI Frameworks: Material-UI, Bootstrap
+Web technologies: HTML5, CSS
+Languages: C, C++, Java, Python
